@@ -9,8 +9,9 @@ This Power BI project showcases an **interactive sales dashboard** for smartphon
 Here's a preview of the Power BI dashboard:
 
 
+![Smartphone Sales Dashboard]
+<img width="1429" height="737" alt="Screenshot 2025-09-19 223845" src="https://github.com/user-attachments/assets/bf8362ae-6f3a-4bc1-9523-c3102936705d" />
 
-![Smartphone Sales Dashboard](C:\Users\saura\OneDrive\Pictures\Pictures\Screenshots)
 
 > *(For best experience, open the `.pbix` file in Power BI Desktop)*
 
