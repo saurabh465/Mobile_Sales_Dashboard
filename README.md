@@ -1,4 +1,4 @@
-# 📊 Smartphone Sales Dashboard (Power BI)
+# 📊 Mobile Sales Dashboard
 
 This Power BI project showcases an **interactive sales dashboard** for smartphone sales analysis across India. It visualizes key metrics such as total sales, quantity sold, transaction count, sales by region, payment methods, and age groups.
 
